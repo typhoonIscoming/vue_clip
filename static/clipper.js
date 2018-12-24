@@ -1,11 +1,4 @@
-/**
- *	name : vue 的图片裁减压缩处理
- *   author : 陈威
- *   date : 2017/6/20
- *   dependence :
- *       cropper 第三方的一个裁剪库
- *       exif    获取图片源信息，解决ios图片旋转的问题
- * */
+
 
 import Cropper from 'cropperjs'
 //import Exif from 'exif-js'
